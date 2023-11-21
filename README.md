@@ -6,3 +6,5 @@ Here is my first change.
 Here is my second change. It will conflict with the first change. 
 
 Oh, by the way, here's the third change. It will be pushed together. 
+
+Here's the fourth change. 
